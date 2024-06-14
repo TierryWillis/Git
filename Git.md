@@ -1,10 +1,16 @@
-## O que é Git e GitHub
-
-O Github é uma “rede social dev” em que é possível armazenar e compartilhar projetos de desenvolvimento de software.
-
-O Git é um sistema de controle de versão de arquivos, em outras palavras, é responsável por guardar o histórico de alterações sempre que alguém modificar algum arquivo que está sendo monitorado por ele.
+## Git
 
 ## Comandos Git (atalhos)
+
+Nome
+```
+$ git config --global user.name "Fulano de Tal"
+```
+
+E-mail
+```
+$ git config --global user.email fulanodetal@exemplo.br
+```
 
 Criar diretório
 ```
